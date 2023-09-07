@@ -1,4 +1,4 @@
-# SkyCast Weather Forecast
+# SkyCast
 
 Welcome to SkyCast, your go-to website for accurate weather predictions. With SkyCast, you can effortlessly check the current weather, temperature, and detailed forecasts for your city or country. Plus, you have the option to choose between imperial and metric units for your convenience.
 
@@ -12,7 +12,7 @@ Welcome to SkyCast, your go-to website for accurate weather predictions. With Sk
 
 ## How to Use
 
-1. Visit the [SkyCast Weather Forecast]([https://www.example.com](https://randdevs.github.io/Weather-Web-App/) website.
+1. Visit the [SkyCast](https://randdevs.github.io/Weather-Web-App/) website.
 2. Enter your city or country name in the search bar.
 3. Choose your preferred unit system (imperial or metric).
 4. Explore the current weather, temperature, and forecasts.
